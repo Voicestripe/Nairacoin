@@ -85,7 +85,7 @@ def mine(a, blockchain, node_pending_transactions):
     BLOCKCHAIN = blockchain
     NODE_PENDING_TRANSACTIONS = node_pending_transactions
     while True:
-        """Mining is the only way that new Goldcoins can be created.
+        """Mining is the only way that new Naira coins can be created.
         In order to prevent too many coins to be created, the process
         is slowed down by a proof of work algorithm.
         """
@@ -111,7 +111,7 @@ def mine(a, blockchain, node_pending_transactions):
             NODE_PENDING_TRANSACTIONS.append({
                 "from": "network",
                 "to": MINER_ADDRESS,
-                "amount": 50})
+                "amount": 1000000})
             # Now we can gather the data needed to create the new block
             new_block_data = {
                 "proof-of-work": proof[0],
@@ -247,7 +247,7 @@ def validate_signature(public_key, signature, message):
 
 def welcome_msg():
     print("""       =========================================\n
-        GOLDCOIN - Bitcoin with super powers BLOCKCHAIN \n
+        NAIRA COIN - Digital Naira currency for Nigeria BLOCKCHAIN \n
        =========================================\n\n
         .\n\n\n""")
 
