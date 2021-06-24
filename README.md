@@ -1,9 +1,14 @@
 # Nairacoin
 Digital Naira cryptocurrency for Nigeria
+
 Revolutionizing Nigeria Financial Economy
+
 Nairacoin will allow people in Nigeria to buy things at local grocery stores or transfer money to others with zero fees. 
+
 Nairacoin will eliminate transaction fees associated with credit cards.
+
 Nairacoin is simpler to set up, more efficient, long-lasting with decentralization, more flexible and accessible to unbanked individuals.
+
 Nairacoin will be running a permissionless blockchain. Access is provided to anyone who meets the technical requirements to run a validator node in the  blockchain.
 Nairacoin lockchain has the ability to scale to billions of accounts that require low latency, high-capacity storage system and high transaction throughput.
 
