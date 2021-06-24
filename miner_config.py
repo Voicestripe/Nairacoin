@@ -1,4 +1,4 @@
-"""Configure this file before you start mining your Goldcoins. Check wallet.py for
+"""Configure this file before you start mining your Nairacoins. Check wallet.py for
 more details.
 """
 
