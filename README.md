@@ -2,6 +2,10 @@
 
 Digital Naira crypto currency for Nigeria : The currency of the Free People.
 
+Nairacoin is an experimental digital currency for Nigeria that enables instant payments to anyone, anywhere in the world.
+
+Nairacoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network.
+
 Nairacoin is not a Token. It is to replace physical naira cash, ease buying and selling and ease international naira transactions.
 
 No transaction fees, no maintenance fees
