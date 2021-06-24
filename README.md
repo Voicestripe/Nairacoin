@@ -18,6 +18,12 @@ Nairacoin will allow people in Nigeria to buy things at local stores or transfer
 
 Nairacoin will eliminate transaction fees associated with credit cards.
 
+# Nairacoin si built on wht exactly?
+
+Nairacoin is built on blockchain Technoogy. A block chain is a transaction database shared by all nodes participating in a system based on the Bitcoin protocol.
+
+A full copy of a currency's block chain contains every transaction ever executed in the currency. With this information, one can find out how much value belonged to each address at any point in history.
+
 Nairacoin is simpler to set up, more efficient, long-lasting with decentralization, more flexible and accessible to unbanked individuals.
 
 Nairacoin will be running a permissionless blockchain. Access is provided to anyone who meets the technical requirements to run a validator node in the  blockchain.
