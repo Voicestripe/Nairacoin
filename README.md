@@ -1,9 +1,16 @@
 # Nairacoin
-Digital Naira cryptocurrency for Nigeria
+
+Digital Naira crypto currency for Nigeria : The currency of the Free People.
+
+Nairacoin is not a Token. It is to replace physical naira cash, ease buying and selling and ease international naira transactions.
+
+No transaction fees, no maintenance fees
 
 Revolutionizing Nigeria Financial Economy
 
-Nairacoin will allow people in Nigeria to buy things at local grocery stores or transfer money to others with zero fees. 
+
+
+Nairacoin will allow people in Nigeria to buy things at local stores or transfer money to others with zero fees. Those without goverment Identity cards who can not get bank accounts can now buy, sell, trade and send money within and outside Nigeria without issues.
 
 Nairacoin will eliminate transaction fees associated with credit cards.
 
@@ -12,7 +19,48 @@ Nairacoin is simpler to set up, more efficient, long-lasting with decentralizati
 Nairacoin will be running a permissionless blockchain. Access is provided to anyone who meets the technical requirements to run a validator node in the  blockchain.
 Nairacoin lockchain has the ability to scale to billions of accounts that require low latency, high-capacity storage system and high transaction throughput.
 
+The value of I Nairacoin is the same value with 1 physical Naira.
 
+The reward for mining 1 block is NCN1,000,000  (Nairacoin) which is the same value with 1,000,000 Nigerian Naira
+
+There is no fixed amount of Nairacoin that will ever exist. There is no fixed amount of physical Naira that can exist in the first place.
+
+The more miners that join the blockchain, the more secure it becomes, the more difficult it will be to get Nairacoin
+
+
+# What is Nairacoin Mission / projects it will power
+
+Feed the poor Foundation
+
+Free Computer Science education
+
+Free Cross border funds Transfer
+
+Accelerator program for startup founders like Y combiantor and Techstars
+
+Crypto Venture capital firm for Nigerians
+
+Support Orphans in Orphange
+
+Free wifi network across Nigeria
+
+Affordable housing for internally displaced persons and refugees.
+
+Free Online University
+
+Online Marketplace for businesses in Nigeria
+
+Real time housing ownership database for Nigerians
+
+Real Time Hospital patients record database for Nigerians
+
+Raise new crypto millionaires
+
+
+
+# How to exchange Nairacoin with other currencies like Dollars, Pounds, Bitcoin, Ethereum, Euros, Swiss Franc, Ripple, Binance coin, Tron and the rest.
+
+We are bulding a Decentralized exchange platform where you can buy, sell, trade and swipe Nairacoin with other currencies. Will be launched in December 2021
 
 
 
