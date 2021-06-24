@@ -1,6 +1,6 @@
-# Goldcoin
-Bitcoin with super powers cryptocurrency
-
+# Nairacoin
+Digital Naira cryptocurrency for Nigeria
+Revolutionizing Nigeria Financial Economy
 
 
 
@@ -28,7 +28,7 @@ There are 2 main scripts:
 
 ### Miner.py
 
-This file is the most important. Running it will create a node (like a server). From here you can connect to the blockchain and process transactions (that other users send) by mining. As a reward for this work, you recieve some coins. The more nodes exist, the more secure the blockchain gets.
+This file is the most important. Running it will create a node (like a server). From here you can connect to the blockchain and process transactions (that other users send) by mining. As a reward for this work, you recieve some Nairacoins. The more nodes exist, the more secure the blockchain gets.
 
 ```miner.py``` has 2 processes running in parallel:
 
